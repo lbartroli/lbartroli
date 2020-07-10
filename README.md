@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working as a Frontend Engineer at [Blameless Inc](https://blameless.com)
+- 🌱 I’m currently learning GraphQL
+- 💬 Ask me about Javascript / React / Vue  / Webpack / HTML / CSS
+- 📫 How to reach me: [Email](mailto:lgbartroli@gmail.com) / [Twitter](https://twitter.com/lbartroli88)
+
 <!--
 **lbartroli/lbartroli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
